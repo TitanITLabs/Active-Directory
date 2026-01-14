@@ -22,7 +22,8 @@ This guide provides step-by-step instructions to set up **Windows Server 2022** 
 *Figure 1: NAT adapter configuration.*  
 The **NAT adapter** is used to provide the virtual machine with internet connectivity through the host machine (your home router). This allows the server to access updates, download tools, and communicate with external networks.
 
-![Network Setup](Pictures/ActiveDirectory/Internal.png)
+![Network Setup](https://github.com/TitanITLabs/Active-Directory/blob/8f3efcd5cc260848002d243c23b27cc400d777b3/Internal.png)
+
 *Figure 2: Internal adapter configuration.*  
 The **Internal adapter** is used for the lab network, allowing the virtual machine to communicate with other lab VMs (like domain-joined clients) without exposing them directly to the internet. The domain controller handles internal network connectivity and routing between VMs.
 
