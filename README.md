@@ -1,6 +1,7 @@
 # Active-Directory
 
 🚀 Purpose
+
 This lab was created as part of my preparation for working in corporate IT environments, including Help Desk, Desktop Support, and Junior Systems Administrator roles. It serves as a practical learning environment and a portfolio project to demonstrate foundational Windows domain knowledge.
 
 🎯 Lab Objectives
