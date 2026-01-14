@@ -15,7 +15,7 @@ This guide provides step-by-step instructions to set up **Windows Server 2022** 
    40GB Virtual Hard Drive Space (Installed on NVME for faster performance)
 
 ---
-##Network Setup
+## Network Setup
 
 ![Network Setup](https://github.com/TitanITLabs/Active-Directory/blob/601d00b7281dde8c230192a549e694deff59b1ec/NAT.png)
 
