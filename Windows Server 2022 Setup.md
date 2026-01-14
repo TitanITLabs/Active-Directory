@@ -15,7 +15,7 @@ This guide provides step-by-step instructions to set up **Windows Server 2022** 
    40GB Virtual Hard Drive Space (Installed on NVME for faster performance)
    3. Mounted the Windows Server ISO
    4. Selected Datacenter Evaluation (Desktop Experience) **Chosen for the GUI**
-![Version Selection]()
+![Version Selection](https://github.com/TitanITLabs/Active-Directory/blob/b3c6f12f069306c7b19a5e6f399744b5ad723e30/Images/VersionSelection.png)
 
 ---
 ## 🌐 Network Setup
