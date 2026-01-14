@@ -6,7 +6,7 @@ This guide provides step-by-step instructions to set up **Windows Server 2022** 
 
 ---
 
-## Step 1: Create a Virtual Machine
+## Step 1: Installation
 
    1. Open your virtualization software.
    2. Created a new VM with the following specs:
