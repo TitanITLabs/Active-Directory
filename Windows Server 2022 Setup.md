@@ -13,6 +13,8 @@ This guide provides step-by-step instructions to set up **Windows Server 2022** 
    6GBs of Ram
    2 CPU cores
    40GB Virtual Hard Drive Space (Installed on NVME for faster performance)
+   3. Mounted the Windows Server ISO
+   4. Selected Datacenter Evaluation (Desktop Experience) **Chosen for the GUI**
 
 ---
 ## 🌐 Network Setup
