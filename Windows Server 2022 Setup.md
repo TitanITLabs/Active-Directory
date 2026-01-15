@@ -20,7 +20,7 @@ This guide provides step-by-step instructions to set up **Windows Server 2022** 
 ---
 ## 🌐 Network Setup
 
-![Network Setup](https://github.com/TitanITLabs/Active-Directory/blob/f12af7c964c75cf253a61c431a73f23ff43c4197/Images/Internal.png)
+![Network Setup](Images/NAT.png)
 
 *Figure 1: NAT adapter configuration.*  
 The **NAT adapter** is used to provide the virtual machine with internet connectivity through the host machine (your home router). This allows the server to access updates, download tools, and communicate with external networks.
