@@ -30,11 +30,13 @@ Notes:
 
 ## Network Setup 
 Figure 1:
+
 ![NetworkSettings](https://github.com/TitanITLabs/Active-Directory/blob/75d6f4664ca58cf450419728867ef6ed7b2390a3/Images/NetworkSettings.png)
 
 In this image it is shown that it is using the internal network from the domain controller as well as showing that DHCP is properly working further proof will be in the following image
 
 Figure 2:
+
 ![IpConfig](https://github.com/TitanITLabs/Active-Directory/blob/75d6f4664ca58cf450419728867ef6ed7b2390a3/Images/IPConfig.png)
 
 Getting the proper addressing from the 172.1.0.100-172.1.0.200 DHCP Scope that is set up for it also properly showing that the client computer is connected to the domain
