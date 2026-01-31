@@ -46,15 +46,20 @@ This figure shows the client workstation receiving an IP address from the 172.1.
 
 Steps for a client to join a domain:
 
-   - Open Settings ---> System ---> About ---> Rename this PC (Advanced)
-   -Click change to select workgroup or domain (Domain in our case)
-   -Enter credentials of a admin account in the splash screen
-   -System Restart Required
+- Navigate to Settings → System → About → Rename this PC (Advanced)
+- Select Change and choose the Domain option
+- Enter the target domain name
+- Authenticate using domain administrator credentials
+- Restart the system to apply the changes
 
 Figure 3:
+
 ![DomainJoined](https://github.com/TitanITLabs/Active-Directory/blob/9070e9eab47b0093019729d609d3ca774b6176d4/Images/Domainjoin.png)
 
 ## Verification Of Joined Domain
 
 Figure 4:
-![DomainProof]()
+
+Used systeminfo | findstr Domain &
+ipconfig /all for further confirmation of the client joining the domain
+![DomainProof](https://github.com/TitanITLabs/Active-Directory/blob/8243f993ed779bf69e9cad7dbb3bd1665a0b0076/Images/DomainProof.png)
