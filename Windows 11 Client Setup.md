@@ -54,7 +54,7 @@ Steps for a client to join a domain:
 
 Figure 3:
 
-![DomainJoined](https://github.com/TitanITLabs/Active-Directory/blob/9070e9eab47b0093019729d609d3ca774b6176d4/Images/Domainjoin.png)
+![DomainJoined](https://github.com/TitanITLabs/Active-Directory/blob/2610a69a55b6fd5846cc57077cd9860326cb9bed/Images/DomainJoin.png)
 
 ## Verification Of Joined Domain
 
