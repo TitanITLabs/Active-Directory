@@ -1,6 +1,6 @@
-##Windows11 Client Setup##
+# Windows11 Client Setup
 
-##Virtual Machine Configuration##
+## Virtual Machine Configuration 
 Here are the following specifications for the Windows Client
 
 Wins11 Client1
