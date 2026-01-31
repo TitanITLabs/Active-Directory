@@ -41,5 +41,13 @@ Figure 2:
 
 This figure shows the client workstation receiving an IP address from the 172.1.0.100–172.1.0.200 DHCP scope on the domain controller. The presence of the domain DNS suffix in the ipconfig output further confirms successful domain membership.
 
+
 ##Joining Domain
-![DomainJoined]()
+
+Steps for a client to join a domain:
+
+   - Open Settings ---> System ---> About ---> Rename this PC (Advanced)
+   -Click change to select workgroup or domain (Domain in our case)
+   -Enter credentials of a admin account in the splash screen
+
+![DomainJoined](https://github.com/TitanITLabs/Active-Directory/blob/9070e9eab47b0093019729d609d3ca774b6176d4/Images/Domainjoin.png)
