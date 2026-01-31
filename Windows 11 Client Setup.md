@@ -40,3 +40,6 @@ Figure 2:
 ![IpConfig](https://github.com/TitanITLabs/Active-Directory/blob/75d6f4664ca58cf450419728867ef6ed7b2390a3/Images/IPConfig.png)
 
 This figure shows the client workstation receiving an IP address from the 172.1.0.100–172.1.0.200 DHCP scope on the domain controller. The presence of the domain DNS suffix in the ipconfig output further confirms successful domain membership.
+
+##Joining Domain
+![DomainJoined]()
