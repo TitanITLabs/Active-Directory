@@ -28,3 +28,6 @@ Notes:
  ![ClientConfig](https://github.com/TitanITLabs/Active-Directory/blob/b0666761c44d3e1e075f55c6285f5de41bb6bd92/Images/ClientSetup.png)
   
 
+## Network Setup 
+Figure 1:
+![NetworkSettings]()
