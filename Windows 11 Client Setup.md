@@ -11,3 +11,7 @@ Wins11 Client1
 - Disk: 20 GB
 - Notes: Joined to the domain for user login and Group Policy testing
 
+ ![ClientConfig](https://github.com/TitanITLabs/Active-Directory/blob/b0666761c44d3e1e075f55c6285f5de41bb6bd92/Images/ClientCpuSetup.png)
+ ![ClientConfig](https://github.com/TitanITLabs/Active-Directory/blob/b0666761c44d3e1e075f55c6285f5de41bb6bd92/Images/ClientSetup.png)
+  
+
