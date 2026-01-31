@@ -10,7 +10,7 @@ OS: Windows 11 Pro
 - Enables full disk encryption (BitLocker) to practice endpoint security concepts.
 
 RAM: 4 GB
-- 4 GB is the recommended minimum for Windows 11.
+- 4 GB is the recommended amount for Windows 11.
 - Sufficient for domain login, Group Policy processing, and administrative tasks without over-allocating host resources.
 
 CPU: 3 vCPUs
