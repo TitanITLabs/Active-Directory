@@ -39,4 +39,21 @@ Click Add Roles and Features then click Active Directory Domain Services bringin
 *Figure 3 Server Roles*
 Click Add Features then continue on with the promotion 
 
-![DomainWizard]()
+![DomainWizard](https://github.com/TitanITLabs/Active-Directory/blob/2610a73ded189e83504b9bdd9802693b453e21e0/Images/DomainWizard.png)
+
+*Figure 4 Domain Setup Wizard*
+Click new forest and then name it whatever you want in my case titaninc (Do not add the .com it will add an extension automatically)
+Continue clicking through until Wizard is Done
+
+# Post Setup
+These are all Images showing succesful Domain Promotion
+
+![Login]()
+Now Showing the Domain Name right before the user
+
+![DcDiag]()
+
+![DCDiag2]()
+
+
+![
