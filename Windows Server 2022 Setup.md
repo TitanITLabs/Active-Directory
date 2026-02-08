@@ -30,3 +30,8 @@ The **NAT adapter** is used to provide the virtual machine with internet connect
 *Figure 2: Internal adapter configuration.*  
 The **Internal adapter** is used for the lab network, allowing the virtual machine to communicate with other lab VMs (like domain-joined clients) without exposing them directly to the internet. The domain controller handles internal network connectivity and routing between VMs.
 
+# Domain Setup
+
+![ServerRoles]()
+
+*Figure 3 Server Roles*
