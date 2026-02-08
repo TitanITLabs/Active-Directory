@@ -52,7 +52,7 @@ These are all Images showing succesful Domain Promotion
 Now Showing the Domain Name right before the user
 
 Used the command **dcdiag** to confirm Domain controler health and AD services were in fact running
-![DcDiag]()
+![DcDiag](https://github.com/TitanITLabs/Active-Directory/blob/dbb8e5b07eb5763c93ee9a7cf9e84ceae526b38b/Images/DcDiag.png)
 
 ![DCDiag2]()
 
