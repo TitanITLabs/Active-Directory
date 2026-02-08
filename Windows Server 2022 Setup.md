@@ -32,6 +32,11 @@ The **Internal adapter** is used for the lab network, allowing the virtual machi
 
 # Domain Setup
 
-![ServerRoles]()
+Click Add Roles and Features then click Active Directory Domain Services bringing you to the setup wizard
+
+![ServerRoles](https://github.com/TitanITLabs/Active-Directory/blob/b44ebd2ccaa1799b61fbcdbba5006f56e7af2344/Images/ServerRoles.png)
 
 *Figure 3 Server Roles*
+Click Add Features then continue on with the promotion 
+
+![DomainWizard]()
