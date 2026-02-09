@@ -55,7 +55,7 @@ Because Active Directory relies on internal DNS records for domain discovery and
 
 ![IncorrectDNSSetup](https://github.com/TitanITLabs/Active-Directory/blob/85a4f042bddf7bc007c04063776115c8a08a11a3/Images/DnsError.png)
 
-Resolution
+**Resolution**
 
 -Removed the Public DNS server from the list
 
