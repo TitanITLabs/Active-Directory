@@ -11,7 +11,7 @@ My first thought was well I'm not getting any internet connectibity so obviously
 It was set to automatic, and I also did an IPConfig to see if I was getting an APIPA Address I was not I was getting a address from the scope meaning DHCP was not the problem
 I then proceeded to try and join the domain which it could not find prompting me to go do an nslookup of my domain
 
-![NSLookup]()
+![NSLookup](https://github.com/TitanITLabs/Active-Directory/blob/7f8aff8dfce36fe3d20c8f66402c4ba8b125036d/Images/Domainnotfound.png)
 
 As shown the gateway internal network existed since the default gateway was there, but I noticed that the ip it was getting was an IP it was getting from the internet connection going out to the actual public internet
 This gave me a starting point on what to research so I researched how come my domain exists, but it cannot connect properly.
