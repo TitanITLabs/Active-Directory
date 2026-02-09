@@ -1,6 +1,6 @@
-** DNS Misconfiguration Preventing Domain Connectivity **
+## DNS Misconfiguration Preventing Domain Connectivity ##
 
-Issue Overview
+# Issue Overview
 
 During the creation of this lab, a DNS misconfiguration caused a domain joined client to be unable to access internal domain resources or successfully join the domain, despite receiving a valid IP address.
 
