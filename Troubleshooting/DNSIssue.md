@@ -35,7 +35,7 @@ Since the client received a valid IP address and default gateway, DHCP was ruled
 Further Investigation
 
 When attempting to join the domain, the client was unable to locate the domain controller.
-An nslookup of the domain name revealed that DNS resolution was showing the Domain Name. but still not able to connect
+An nslookup of the domain name revealed that DNS resolution was showing the Domain Name even the default gateway. but still not able to connect
 
 
 ![NSLookup](https://github.com/TitanITLabs/Active-Directory/blob/7f8aff8dfce36fe3d20c8f66402c4ba8b125036d/Images/Domainnotfound.png)
