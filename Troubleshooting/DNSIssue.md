@@ -23,4 +23,4 @@ I went through my set up for DHCP and DNS to find this behemot looking straight 
 
 Once I removed it from the list entirely (setting it as secondary also works) I was able to get the proper internet connection
 
-![Connectivity]()
+![Connectivity](https://github.com/TitanITLabs/Active-Directory/blob/04e14d0cd30dfe67903f55d44ad317abb010a506/Images/ConnectivityFixed.png)
