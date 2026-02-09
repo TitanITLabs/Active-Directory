@@ -59,6 +59,8 @@ Because Active Directory relies on internal DNS records for domain discovery and
 
 -Removed the Public DNS server from the list
 
+-Joined Domain
+
 -Renewed the client’s DHCP lease connectivity achieved due to access to internal resources now
 
 ![Connectivity](https://github.com/TitanITLabs/Active-Directory/blob/04e14d0cd30dfe67903f55d44ad317abb010a506/Images/ConnectivityFixed.png)
