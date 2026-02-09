@@ -19,7 +19,7 @@ I found an answer saying that if it using a public DNS server  cannot access the
 
 I went through my set up for DHCP and DNS to find this behemot looking straight at my face.
 
-![IncorrectDNSSetup]()
+![IncorrectDNSSetup](https://github.com/TitanITLabs/Active-Directory/blob/85a4f042bddf7bc007c04063776115c8a08a11a3/Images/DnsError.png)
 
 Once I removed it from the list entirely (setting it as secondary also works) I was able to get the proper internet connection
 
