@@ -24,7 +24,8 @@
     - **Exclusions** (optional, for printers or devices requiring static IPs)
     - **DNS server:** `172.16.0.1` (Domain Controller)
       - Ensure the internal DNS server is set as **primary** to maintain domain and internet connectivity
-
+     
+  ![ScopeName]()
 
   ![IPRange](https://github.com/TitanITLabs/Active-Directory/blob/78ff4bbe7b2ebf8978e2b24e04c58b78990afcdd/Images/Scope.png)
 
@@ -34,6 +35,6 @@
 
   ![DefaultGateway](https://github.com/TitanITLabs/Active-Directory/blob/223efa61d2b0f0ee36c210f602a67d7a6d2e8243/Images/DefaultGateway.png)
 
-  ![DNS]()
+  ![DNS](https://github.com/TitanITLabs/Active-Directory/blob/0801fef82f21a61ba59f30c191d4bc862a0f0da9/Images/DnsError.png)
 
   
