@@ -1,8 +1,11 @@
 # Configuration Steps
 
   -Use server manager to install DHCP 
+  
   -Add Roles and Features
+  
   -Ensure DHCP is selected
+  
   -Finish up in the setup Wizard
 
   ![InsatllationDHCP](https://github.com/TitanITLabs/Active-Directory/blob/c4cf4c33bcf62c556e6a9b52be0ddef2a64d5810/Images/DHCPServerRoles.png)
@@ -34,7 +37,7 @@
 
   ![IPRange]()
 
-  ![Duration]()
+  ![Duration](https://github.com/TitanITLabs/Active-Directory/blob/33ea93725e83dfa586ad08c66b5de688a5a63efb/Images/Duration.png)
 
   ![Exclusions]()
 
