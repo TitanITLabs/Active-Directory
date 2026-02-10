@@ -11,8 +11,10 @@
 
   Following steps to configure DHCP
 
-  Withing the console
+  Within the console
+  
   -Right click on IPV4 and click new scope
+  
   -Enter the following:
      -Scope Name (Mine is the range I'm using I suggest an actual name)
      -Optional Description
@@ -29,7 +31,7 @@
 
   ![Exclusions]()
 
-  ![DefaultGateway]()
+  ![DefaultGateway](https://github.com/TitanITLabs/Active-Directory/blob/223efa61d2b0f0ee36c210f602a67d7a6d2e8243/Images/DefaultGateway.png)
 
   ![DNS]()
 
