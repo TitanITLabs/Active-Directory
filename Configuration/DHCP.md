@@ -12,28 +12,21 @@
 
   Following steps to configure DHCP
 
-  Within the console
-  
-  -Right click on IPV4 and click new scope
-  
-  -Enter the following:
-  -Scope Name (Mine is the range I'm using I suggest an actual name)
-    
-  -Optional Description
-     
-  -IP Range 172.16.0.100 - 172.16.0.200
-  
-  -Subnet Mask 255.255.255.0/24
-  
-  -Set Lease Duration
-    
-  -Set Default Gateway to gather the IP addresses
-    
-  -Optional exclusions for a printer or other devices that a static IP is more suited for
-     
-  -DNS Server Pointed it to the domain controller's IP 172.16.0.1 (Make sure to set it as primary otherwise no internet connectivity will occur)
+- Within the DHCP console:
+  - Right-click **IPv4** and select **New Scope**
+  - Enter the following configuration:
+    - **Scope Name** (use a descriptive name; avoid using the IP range as the name)
+    - **Optional description**
+    - **IP address range:** `172.16.0.100 – 172.16.0.200`
+    - **Subnet mask:** `255.255.255.0 (/24)`
+    - **Lease duration** (as appropriate for the environment)
+    - **Default gateway:** internal gateway IP
+    - **Exclusions** (optional, for printers or devices requiring static IPs)
+    - **DNS server:** `172.16.0.1` (Domain Controller)
+      - Ensure the internal DNS server is set as **primary** to maintain domain and internet connectivity
 
-  ![IPRange]()
+
+  ![IPRange](https://github.com/TitanITLabs/Active-Directory/blob/78ff4bbe7b2ebf8978e2b24e04c58b78990afcdd/Images/Scope.png)
 
   ![Duration](https://github.com/TitanITLabs/Active-Directory/blob/33ea93725e83dfa586ad08c66b5de688a5a63efb/Images/Duration.png)
 
