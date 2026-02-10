@@ -25,7 +25,7 @@
     - **DNS server:** `172.16.0.1` (Domain Controller)
       - Ensure the internal DNS server is set as **primary** to maintain domain and internet connectivity
      
-  ![ScopeName]()
+  ![ScopeName](https://github.com/TitanITLabs/Active-Directory/blob/9b7ba828719588b2a1b8983b27d0e11c522006ec/Images/ScopeName.png)
 
   ![IPRange](https://github.com/TitanITLabs/Active-Directory/blob/78ff4bbe7b2ebf8978e2b24e04c58b78990afcdd/Images/Scope.png)
 
